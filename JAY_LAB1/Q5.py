@@ -1,4 +1,4 @@
-from tkinter import W
+
 
 
 a=int(input("enter side 1 "))
