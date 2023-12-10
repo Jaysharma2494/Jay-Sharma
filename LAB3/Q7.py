@@ -1,0 +1,8 @@
+x=int(input("enter the real part of first cmplex no.:"))
+y=int(input("enter the imaginary part of first cmplex no.:"))
+x_1=int(input("enter the real part of second cmplex no.:"))
+y_1=int(input("enter the imaginary part of second cmplex no.:"))
+com_1=complex (x,y)
+com_2=complex(x_1,y_1)
+print(com_1+com_2)
+print(com_1*com_2)
